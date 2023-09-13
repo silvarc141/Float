@@ -28,7 +28,7 @@
     --sidebar-usersettings-width: 66px;
 
     /* Memberlist */
-    --float-members-width: 65px;
+    --float-members-width: 180px;
     --members-hover-width: 180px;
     --members-hover-delay: 0.2s;
     --members-transition-duration: 0.05s;
